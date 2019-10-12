@@ -1,0 +1,18 @@
+---
+Checks: >
+  -*,
+  bugprone-*,
+  clang-analyzer-*,
+  google-*,
+  misc-*,
+  modernize-*,
+  performance-*,
+  readability-*,
+  -google-runtime-references,
+  -misc-non-private-member-variables-in-classes,
+  -modernize-use-trailing-return-type,
+
+
+WarningsAsErrors: '*'
+AnalyzeTemporaryDtors: false
+FormatStyle: Google
