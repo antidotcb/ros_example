@@ -1,3 +1,4 @@
 add_subdirectory(example)
 add_subdirectory(publisher_node)
 add_subdirectory(subscriber_node)
+add_subdirectory(publisher_nodelet)

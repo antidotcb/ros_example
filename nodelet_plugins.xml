@@ -1,0 +1,7 @@
+<library path="lib/publisher_nodelet">
+    <class name="example/PublisherNodelet" type="example::PublisherNodelet" base_class_type="nodelet::Nodelet">
+        <description>
+            This is example nodelet.
+        </description>
+    </class>
+</library>
