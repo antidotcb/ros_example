@@ -1,3 +1,3 @@
 add_subdirectory(example)
-add_subdirectory(talker_publisher)
-add_subdirectory(talker_subscriber)
+add_subdirectory(publisher_node)
+add_subdirectory(subscriber_node)
